@@ -4,7 +4,7 @@
 
 ## Prompt
 
-![Messy Array Prompt](https://github.com/ahkim3/12-Days/blob/main/Messy%20Array%20Prompt.png?raw=true "Prompt")
+![Messy Array Prompt](https://github.com/ahkim3/Messy-Array/blob/main/Messy%20Array%20Prompt.png?raw=true "Prompt")
 
 ## Authors
 - Andrew Kim
